@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharat Deshpande</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-deshpande&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-deshpande" /> </p>
-
 - 🌱 I’m currently learning **Data Structures**
 
 - 📫 How to reach me **bharatdeshpande007@gmail.com**
